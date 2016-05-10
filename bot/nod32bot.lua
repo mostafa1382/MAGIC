@@ -252,8 +252,8 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @KALILINUXNEWS
+sodu : @KALILINUXNEW
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -318,7 +318,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @KALILINUXNEWS
 
 ]],
     help_text = [[
@@ -383,7 +383,7 @@ ch: @Nod32team
 --------------------------------------------------☢ادمینو بیار
 🔻اوردن ادمین بات درصورت مشکل
 --------------------------------------------------👮سازنده: @anonymous1221
-👷کانال ما: @viper_ch
+👷کانال ما: @KALILINUXNEWS
 --------------------------------------------------♒️نکته: از طریق ایدی میتوانید ایدی خود را یا فردی را ببینید
 ]]
    }
